@@ -1,3 +1,3 @@
 # ArTrade
 ArTrade - это приложение для художников и любителей искусства! Художники имеют прекрасную возможность выставить свои творения на продажу, а ценители могут приобрести понравившиеся картины.
-![description](https://github.com/Megumi31456/ArTrade/tree/main/src/img)
+![description](https://github.com/Megumi31456/ArTrade/tree/main/src/img/descr_art.jpg)
